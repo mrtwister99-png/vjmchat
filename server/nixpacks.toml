@@ -1,0 +1,5 @@
+[phases.build]
+cmds = ["./gradlew buildFatJar -x test -Pproduction"]
+
+[start]
+cmd = "java -jar build/libs/server.jar"

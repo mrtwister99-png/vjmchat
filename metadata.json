@@ -1,0 +1,6 @@
+{
+  "name": "Firemní Tým",
+  "description": "Týmová aplikace pro 3 členy: aktivity, úkoly, nápady, chat a kalendář.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
